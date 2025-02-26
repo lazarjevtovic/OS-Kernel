@@ -4,6 +4,9 @@ This repository contains the implementation of the Operating Systems 1 course pr
 
 Project Scope:
 The project involves developing a system that demonstrates key operating system concepts such as:
+
 Multiple threads scheduling
+
 Memory management
+
 Time sharing
